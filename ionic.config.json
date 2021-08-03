@@ -1,0 +1,8 @@
+{
+  "name": "maprutas",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
